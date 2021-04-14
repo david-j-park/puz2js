@@ -1,6 +1,6 @@
 {
   "name": "puz2js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert .puz files (Across Lite) to javascript objects",
   "main": "index.js",
   "repository": {
