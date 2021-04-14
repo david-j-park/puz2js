@@ -1,0 +1,16 @@
+{
+  "name": "puz2js",
+  "version": "1.0.0",
+  "description": "Convert .puz files (Across Lite) to javascript objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "across",
+    "lite",
+    ".puz"
+  ],
+  "author": "David Park",
+  "license": "MIT"
+}
