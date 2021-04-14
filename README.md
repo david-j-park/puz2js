@@ -4,7 +4,7 @@ Converts binary Across Lite (.puz) files to javascript objects listing title, au
 Based on Jim Horne's excellent [AcrossLiteToText](https://github.com/jahorne/AcrossLiteToText) library. All credit goes to Jim for the parsing logic. Check out his [XWordInfo](https://www.xwordinfo.com/) site for tons of great crosswording resources!
 
 Basic usage:
-```
+```javascript
 const puz2js = require('puz2js')
 , fs = require('fs');
 
