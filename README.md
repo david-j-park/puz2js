@@ -17,3 +17,5 @@ const across = parsedPuzzle.clues.filter((v, i) => {
     return v.direction = 'Across'
 });
 ```
+## Guidelines for Usage
+__Please respect the copyrights of puzzle constructors when using this tool__. Anything other than personal use of their work requires permission.
